@@ -1,4 +1,4 @@
-# This project utilizes the following superstore date: 
+# This project utilizes the following superstore data: 
 
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
